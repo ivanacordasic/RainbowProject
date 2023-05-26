@@ -6,4 +6,6 @@ public class Ocean {
 
     // This is just a demo
 
+    // Is the ocean really blue???
+
 }
